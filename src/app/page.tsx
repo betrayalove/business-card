@@ -88,8 +88,8 @@ export default function Home() {
     {
       platform: 'YouTube',
       platformKey: 'youtube',
-      url: 'https://www.youtube.com/@betrayalove6390',
-      username: '@betrayalove6390',
+      url: 'https://www.youtube.com/channel/UC0t2BZnX2lalYEEIxAhBguQ',
+      username: 'UC0t2BZnX2lalYEEIxAhBguQ',
       icon: <YouTubeIcon />,
       copyable: true
     }
